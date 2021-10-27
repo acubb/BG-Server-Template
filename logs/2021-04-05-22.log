@@ -1,0 +1,157 @@
+[15:13:54] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[15:13:54] [Server thread/INFO]: Loading properties
+[15:13:54] [Server thread/INFO]: Default game type: SURVIVAL
+[15:13:55] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-79a30d7-acbc348 (MC: 1.12.2) (Implementing API version 1.12.2-R0.1-SNAPSHOT)
+[15:13:55] [Server thread/INFO]: Debug logging is disabled
+[15:13:55] [Server thread/INFO]: Using 4 threads for Netty based IO
+[15:13:55] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[15:13:55] [Server thread/INFO]: Generating keypair
+[15:13:55] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:13:55] [Server thread/INFO]: Using default channel type
+[15:13:55] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[15:13:55] [Server thread/INFO]: [ajStartCommands] Loading ajStartCommands v2.0.3
+[15:13:55] [Server thread/INFO]: [AntiSpam-REVAMPED] Loading AntiSpam-REVAMPED v1.0.0-SNAPSHOT
+[15:13:55] [Server thread/INFO]: [TerrainControl] Loading TerrainControl v2.9.0-SNAPSHOT
+[15:13:55] [Server thread/INFO]: [BountifulAPI] Loading BountifulAPI v1.6.4
+[15:13:55] [Server thread/INFO]: [SQLibrary] Loading SQLibrary v7.1
+[15:13:55] [Server thread/INFO]: [ViaVersion] Loading ViaVersion v3.2.1
+[15:13:55] [Server thread/INFO]: [ViaVersion] ViaVersion 3.2.1 is now loaded, injecting!
+[15:13:55] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading 1.12 -> 1.13 mappings...
+[15:13:55] [Via-Mappingloader-1/INFO]: [ViaVersion] Loading 1.13 -> 1.13.2 mappings...
+[15:13:55] [Via-Mappingloader-2/INFO]: [ViaVersion] Loading 1.13.2 -> 1.14 mappings...
+[15:13:56] [Server thread/INFO]: [Voice] Loading Voice v1.1
+[15:13:56] [Server thread/INFO]: [Skript] Loading Skript v2.5.3
+[15:13:56] [Server thread/INFO]: [BukkitGames] Loading BukkitGames v3.0.0
+[15:13:56] [Server thread/INFO]: [BukkitGames] Loading the best HungerGames plugin in the whole universe... ;)
+[15:13:56] [Server thread/INFO]: [BukkitGames] ------ BUKKITGAMES STARTUP ------
+[15:13:56] [Server thread/INFO]: [BukkitGames] Version: v3.0.0
+[15:13:56] [Server thread/INFO]: [BukkitGames] Running the one and only BukkitGames plugin! :)
+[15:13:56] [Server thread/INFO]: [BukkitGames] Copyright by ftbastler! - Est. 2012 - Made in Germany.
+[15:13:56] [Server thread/INFO]: [BukkitGames] ------ ------------------- ------
+[15:13:56] [Server thread/INFO]: [BukkitGames] Generating a new world...
+[15:13:56] [Via-Mappingloader-3/INFO]: [ViaVersion] Loading 1.14 -> 1.15 mappings...
+[15:13:56] [Via-Mappingloader-4/INFO]: [ViaVersion] Loading 1.15 -> 1.16 mappings...
+[15:13:56] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[15:13:56] [Via-Mappingloader-5/INFO]: [ViaVersion] Loading 1.16 -> 1.16.2 mappings...
+[15:13:56] [Server thread/INFO]: [BGAbilities] Loading BGAbilities v1.0
+[15:13:56] [Server thread/INFO]: [LibsDisguises] Loading LibsDisguises v10.0.24
+[15:13:56] [Server thread/INFO]: [NoCheatPlus] Loading NoCheatPlus v3.16.0-RC-sMD5NET-b1134
+[15:13:56] [Server thread/INFO]: [NoCheatPlus] onLoad: Early set up of static API, configuration, logging.
+[15:13:56] [Server thread/INFO]: [NoCheatPlus] Logging system initialized.
+[15:13:56] [Server thread/INFO]: [NoCheatPlus] Detected Minecraft version: 1.12.2
+[15:13:56] [Server thread/INFO]: [ProtocolLib] Loading ProtocolLib v4.5.1
+[15:13:56] [Server thread/INFO]: [Orebfuscator] Loading Orebfuscator v5.1.4
+[15:13:56] [Server thread/INFO]: [TerrainControl] Enabling TerrainControl v2.9.0-SNAPSHOT
+[15:13:56] [Server thread/INFO]: [TerrainControl] 22 Global custom objects loaded
+[15:13:56] [Server thread/INFO]: [TerrainControl] Global objects loaded, waiting for worlds to load
+[15:13:56] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v4.5.1
+[15:13:56] [Server thread/INFO]: [ProtocolLib] Started structure compiler thread.
+[15:13:56] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[15:13:56] [Server thread/INFO]: Preparing level "world"
+[15:13:56] [Server thread/INFO]: -------- World Settings For [world] --------
+[15:13:56] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[15:13:56] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:13:56] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:13:56] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:13:56] [Server thread/INFO]: View Distance: 8
+[15:13:56] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:13:56] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:13:56] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:13:56] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[15:13:56] [Server thread/INFO]: Random Lighting Updates: false
+[15:13:56] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[15:13:56] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:13:56] [Server thread/INFO]: Max TNT Explosions: 100
+[15:13:56] [Server thread/INFO]: Structure Info Saving: true
+[15:13:56] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:13:56] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[15:13:56] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:13:56] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:13:56] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:13:56] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:13:56] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:13:56] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:13:56] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:13:56] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[15:13:56] [Server thread/INFO]: Vine Growth Modifier: 100%
+[15:13:56] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[15:13:56] [Server thread/INFO]: Mob Spawn Range: 4
+[15:13:57] [Server thread/INFO]: Preparing start region for level 0 (Seed: -7302385729572349887)
+[15:13:58] [Server thread/INFO]: Preparing spawn area: 12%
+[15:13:59] [Server thread/INFO]: Preparing spawn area: 28%
+[15:14:00] [Server thread/INFO]: Preparing spawn area: 46%
+[15:14:01] [Server thread/INFO]: Preparing spawn area: 61%
+[15:14:02] [Server thread/INFO]: Preparing spawn area: 74%
+[15:14:03] [Server thread/INFO]: Preparing spawn area: 88%
+[15:14:04] [Server thread/INFO]: Preparing spawn area: 99%
+[15:14:04] [Server thread/INFO]: [ajStartCommands] Enabling ajStartCommands v2.0.3
+[15:14:04] [Server thread/INFO]: [0;32;1majStartCommands v[0;32;22m2.0.3 [0;32;1mby ajgeiss0702 has been enabled![m
+[15:14:04] [Server thread/INFO]: [AntiSpam-REVAMPED] Enabling AntiSpam-REVAMPED v1.0.0-SNAPSHOT
+[15:14:04] [Server thread/INFO]: [BountifulAPI] Enabling BountifulAPI v1.6.4
+[15:14:04] [Server thread/INFO]: [0;36;1mBountifulAPI V1.6.4 has been enabled![m
+[15:14:04] [Server thread/INFO]: [SQLibrary] Enabling SQLibrary v7.1
+[15:14:04] [Server thread/INFO]: SQLibrary loaded.
+[15:14:04] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v3.2.1
+[15:14:04] [Server thread/INFO]: [Voice] Enabling Voice v1.1
+[15:14:04] [Server thread/INFO]: [Skript] Enabling Skript v2.5.3
+[15:14:05] [ForkJoinPool.commonPool-worker-1/INFO]: [0;37;22m[[0;33;22mSkript[0;37;22m][m You're currently running the latest stable version of Skript.[m
+[15:14:06] [Server thread/INFO]: [Skript] Loaded 18217 aliases in 1696ms
+[15:14:06] [Server thread/INFO]: [Skript]  ~ created by & © Peter Güttinger aka Njol ~
+[15:14:06] [Server thread/INFO]: [BukkitGames] Enabling BukkitGames v3.0.0
+[15:14:06] [Server thread/INFO]: [BukkitGames] Found Skript v2.5.3. Hooking in...
+[15:14:06] [Server thread/INFO]: [BukkitGames] Found BountifulAPI v1.6.4. Hooking in...
+[15:14:06] [Server thread/INFO]: [BukkitGames] Loaded a total of 16 kits.
+[15:14:06] [Thread-10/WARN]: [BukkitGames] Something went wrong while checking for updates.
+[15:14:06] [Thread-10/INFO]: [BukkitGames] Please check the plugin's page to see if there are any updates available.
+[15:14:06] [Server thread/INFO]: [BukkitGames] BG:SQLite[SQLite] Connected to database.
+[15:14:06] [Server thread/WARN]: [BukkitGames] Your max. game time is not ideal. It should be at least 15 minutes.
+[15:14:06] [Server thread/INFO]: [BukkitGames] Startup completed and ready for fighting! (0.3s)
+[15:14:06] [Server thread/INFO]: [BGAbilities] Enabling BGAbilities v1.0
+[15:14:06] [Server thread/INFO]: [BGAbilities] Enabled extended abilities! (v1.0)
+[15:14:06] [Server thread/INFO]: [LibsDisguises] Enabling LibsDisguises v10.0.24
+[15:14:06] [Server thread/INFO]: [LibsDisguises] File Name: LibsDisguises-10.0.24-Free.jar
+[15:14:06] [Server thread/INFO]: [LibsDisguises] Discovered nms version: v1_12_R1
+[15:14:06] [Server thread/INFO]: [LibsDisguises] Jenkins Build: #878
+[15:14:06] [Server thread/INFO]: [LibsDisguises] Build Date: 13/02/2021 01:57
+[15:14:06] [Server thread/WARN]: [LibsDisguises] If you own the plugin, place the premium jar downloaded from https://www.spigotmc.org/resources/libs-disguises.32453/ in plugins/LibsDisguises/
+[15:14:06] [Server thread/INFO]: [LibsDisguises] You are running the free version, commands limited to non-players and operators. (Console, Command Blocks, Admins)
+[15:14:07] [Server thread/INFO]: [LibsDisguises] Loaded custom disguise libraryaddict
+[15:14:07] [Server thread/INFO]: [LibsDisguises] Loaded 1 custom disguise
+[15:14:07] [Server thread/INFO]: [LibsDisguises] Config is up to date!
+[15:14:07] [Server thread/INFO]: [NoCheatPlus] Enabling NoCheatPlus v3.16.0-RC-sMD5NET-b1134
+[15:14:07] [Server thread/INFO]: [NoCheatPlus] McAccess set to: 1.12-1.12.2 / Spigot-CB-1.12_R1
+[15:14:07] [Server thread/INFO]: [NoCheatPlus] Added block-info for Minecraft 1.5 blocks.
+[15:14:07] [Server thread/INFO]: [NoCheatPlus] Added block-info for Minecraft 1.6.1 blocks.
+[15:14:07] [Server thread/INFO]: [NoCheatPlus] Added block-info for Minecraft 1.7.2 blocks.
+[15:14:07] [Server thread/INFO]: [NoCheatPlus] Added block-info for Minecraft 1.8 blocks.
+[15:14:07] [Server thread/INFO]: [NoCheatPlus] Added block-info for Minecraft 1.9 blocks.
+[15:14:07] [Server thread/INFO]: [NoCheatPlus] Added block-info for Minecraft 1.10 blocks.
+[15:14:07] [Server thread/INFO]: [NoCheatPlus] Added block-info for Minecraft 1.11 blocks.
+[15:14:07] [Server thread/INFO]: [NoCheatPlus] Added block-info for Minecraft 1.12 blocks.
+[15:14:07] [Server thread/INFO]: [NoCheatPlus] Update block-info: WATER_LILY block shape patch for multi client protocol support around 1.7.x - 1.11.x.
+[15:14:07] [Server thread/INFO]: [NoCheatPlus] Inventory checks: FastConsume is available, disabled InstantEat.
+[15:14:07] [Server thread/INFO]: [NoCheatPlus] Adding packet level hooks for ProtocolLib (MC 1.12.2)...
+[15:14:07] [Server thread/INFO]: [NoCheatPlus] Available (and activated) packet level hooks: UseEntityAdapter | MovingFlying | OutgoingPosition | KeepAliveAdapter | SoundDistance
+[15:14:07] [Server thread/INFO]: [NoCheatPlus] Force disable FastHeal on Minecraft 1.9 and later.
+[15:14:07] [Server thread/INFO]: [NoCheatPlus] Version 3.16.0-RC-sMD5NET-b1134 is enabled.
+[15:14:07] [Server thread/INFO]: [Orebfuscator] Enabling Orebfuscator v5.1.4
+[15:14:07] [Server thread/INFO]: [Orebfuscator] Using 'orebfuscator_cache' as chunk cache path
+[15:14:07] [Server thread/INFO]: [Orebfuscator] cache.protocolLibThreads is less than one, choosing processor count as value = 6
+[15:14:07] [Server thread/INFO]: [Orebfuscator] Searching NMS adapter for server version "v1_12_R1"!
+[15:14:07] [Server thread/INFO]: [Orebfuscator] NMS adapter for server version "v1_12_R1" found!
+[15:14:07] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[15:14:07] [Server thread/INFO]: Done (10.633s)! For help, type "help" or "?"
+[15:14:07] [Server thread/INFO]: Game rule announceAchievements has been updated to false
+[15:14:07] [Server thread/INFO]: Game rule announceAdvancements has been updated to false
+[15:14:07] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.12.2(340)
+[15:14:07] [Server thread/INFO]: [Skript] Loading variables...
+[15:14:07] [Server thread/INFO]: [Skript] Loaded 6 variables in 0.0 seconds
+[15:14:07] [Server thread/INFO]: [Skript] All scripts loaded without errors.
+[15:14:07] [Server thread/INFO]: [Skript] Loaded 2 scripts with a total of 3 triggers and 3 commands in 0.11 seconds
+[15:14:07] [Server thread/INFO]: [Skript] Finished loading.
+[15:14:07] [Server thread/INFO]: [NoCheatPlus] Post-enable running...
+[15:14:07] [Craft Scheduler Thread - 7/INFO]: [NoCheatPlus] Added hook: AllViolations(NCP) [1.0].
+[15:14:07] [Server thread/INFO]: [NoCheatPlus] Post-enable finished.
+[15:14:07] [Server thread/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
+[15:14:07] [Server thread/INFO]: [BountifulAPI] No update was found, you are running the latest version.
+[15:44:13] [Craft Scheduler Thread - 15/INFO]: [LibsDisguises] Now looking for update on Github..

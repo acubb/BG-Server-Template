@@ -1,0 +1,573 @@
+item1:
+      ==: org.bukkit.inventory.ItemStack
+      type: BOW
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        enchants:
+          ARROW_DAMAGE: 2
+        repair-cost: 1
+item2:
+      ==: org.bukkit.inventory.ItemStack
+      type: GOLD_BOOTS
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        enchants:
+          PROTECTION_EXPLOSIONS: 2
+        repair-cost: 1
+item3:
+      ==: org.bukkit.inventory.ItemStack
+      type: GOLD_LEGGINGS
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        enchants:
+          PROTECTION_EXPLOSIONS: 2
+        repair-cost: 1
+item4:
+      ==: org.bukkit.inventory.ItemStack
+      type: GOLD_CHESTPLATE
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        enchants:
+          PROTECTION_EXPLOSIONS: 1
+        repair-cost: 1
+item5:
+      ==: org.bukkit.inventory.ItemStack
+      type: GOLD_HELMET
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        enchants:
+          PROTECTION_EXPLOSIONS: 2
+        repair-cost: 1
+item6:
+      ==: org.bukkit.inventory.ItemStack
+      type: GOLD_HELMET
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        enchants:
+          PROTECTION_PROJECTILE: 2
+        repair-cost: 1
+item7:
+      ==: org.bukkit.inventory.ItemStack
+      type: GOLD_CHESTPLATE
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        enchants:
+          PROTECTION_PROJECTILE: 2
+        repair-cost: 1
+item8:
+      ==: org.bukkit.inventory.ItemStack
+      type: GOLD_LEGGINGS
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        enchants:
+          PROTECTION_PROJECTILE: 2
+        repair-cost: 1
+item9:
+      ==: org.bukkit.inventory.ItemStack
+      type: GOLD_BOOTS
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        enchants:
+          PROTECTION_PROJECTILE: 2
+        repair-cost: 1
+item10:
+      ==: org.bukkit.inventory.ItemStack
+      type: LOG
+      amount: 48
+item11:
+      ==: org.bukkit.inventory.ItemStack
+      type: IRON_SWORD
+item12:
+      ==: org.bukkit.inventory.ItemStack
+      type: IRON_INGOT
+      amount: 5
+item13:
+      ==: org.bukkit.inventory.ItemStack
+      type: SHIELD
+item14:
+      ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND_ORE
+      amount: 3
+item15:
+      ==: org.bukkit.inventory.ItemStack
+      type: RABBIT_STEW
+item16:
+      ==: org.bukkit.inventory.ItemStack
+      type: ANVIL
+      damage: 1
+item17:
+      ==: org.bukkit.inventory.ItemStack
+      type: CAKE
+item18:
+      ==: org.bukkit.inventory.ItemStack
+      type: TIPPED_ARROW
+      amount: 2
+      meta:
+        ==: ItemMeta
+        meta-type: POTION
+        potion-type: minecraft:slowness
+item19:
+      ==: org.bukkit.inventory.ItemStack
+      type: TIPPED_ARROW
+      amount: 2
+      meta:
+        ==: ItemMeta
+        meta-type: POTION
+        potion-type: minecraft:harming
+item20:
+      ==: org.bukkit.inventory.ItemStack
+      type: IRON_SWORD
+item21:
+      ==: org.bukkit.inventory.ItemStack
+      type: SHIELD
+item22:
+      ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND_ORE
+      amount: 2
+item23:
+      ==: org.bukkit.inventory.ItemStack
+      type: RABBIT_STEW
+item24:
+      ==: org.bukkit.inventory.ItemStack
+      type: CAKE
+item25:
+      ==: org.bukkit.inventory.ItemStack
+      type: CAKE
+item26:
+      ==: org.bukkit.inventory.ItemStack
+      type: RABBIT_STEW
+item27:
+      ==: org.bukkit.inventory.ItemStack
+      type: ARROW
+      amount: 16
+item28:
+      ==: org.bukkit.inventory.ItemStack
+      type: ARROW
+      amount: 16
+item29:
+      ==: org.bukkit.inventory.ItemStack
+      type: ARROW
+      amount: 16
+item30:
+      ==: org.bukkit.inventory.ItemStack
+      type: ARROW
+      amount: 16
+item31:
+      ==: org.bukkit.inventory.ItemStack
+      type: TIPPED_ARROW
+      amount: 2
+      meta:
+        ==: ItemMeta
+        meta-type: POTION
+        potion-type: minecraft:slowness
+item32:
+      ==: org.bukkit.inventory.ItemStack
+      type: CHAINMAIL_HELMET
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        enchants:
+          PROTECTION_EXPLOSIONS: 2
+        repair-cost: 1
+item33:
+      ==: org.bukkit.inventory.ItemStack
+      type: BOW
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        enchants:
+          ARROW_DAMAGE: 1
+        repair-cost: 1
+item34:
+      ==: org.bukkit.inventory.ItemStack
+      type: BOW
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        enchants:
+          ARROW_DAMAGE: 1
+        repair-cost: 1
+item35:
+      ==: org.bukkit.inventory.ItemStack
+      type: BOW
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        enchants:
+          ARROW_INFINITE: 1
+        repair-cost: 1
+item36:
+      ==: org.bukkit.inventory.ItemStack
+      type: GOLD_CHESTPLATE
+item37:
+      ==: org.bukkit.inventory.ItemStack
+      type: GOLD_CHESTPLATE
+item38:
+      ==: org.bukkit.inventory.ItemStack
+      type: HUGE_MUSHROOM_2
+      amount: 64
+item39:
+      ==: org.bukkit.inventory.ItemStack
+      type: CAKE
+item40:
+      ==: org.bukkit.inventory.ItemStack
+      type: CAKE
+item41:
+      ==: org.bukkit.inventory.ItemStack
+      type: CAKE
+item42:
+      ==: org.bukkit.inventory.ItemStack
+      type: CAKE
+item43:
+      ==: org.bukkit.inventory.ItemStack
+      type: ENCHANTED_BOOK
+      meta:
+        ==: ItemMeta
+        meta-type: ENCHANTED
+        stored-enchants:
+          PROTECTION_FIRE: 2
+item44:
+      ==: org.bukkit.inventory.ItemStack
+      type: ENCHANTED_BOOK
+      meta:
+        ==: ItemMeta
+        meta-type: ENCHANTED
+        stored-enchants:
+          PROTECTION_ENVIRONMENTAL: 2
+item45:
+      ==: org.bukkit.inventory.ItemStack
+      type: ENCHANTED_BOOK
+      meta:
+        ==: ItemMeta
+        meta-type: ENCHANTED
+        stored-enchants:
+          DAMAGE_ALL: 2
+item46:
+      ==: org.bukkit.inventory.ItemStack
+      type: ENCHANTED_BOOK
+      meta:
+        ==: ItemMeta
+        meta-type: ENCHANTED
+        stored-enchants:
+          ARROW_DAMAGE: 3
+item47:
+      ==: org.bukkit.inventory.ItemStack
+      type: RED_MUSHROOM
+      amount: 6
+item48:
+      ==: org.bukkit.inventory.ItemStack
+      type: IRON_PICKAXE
+item49:
+      ==: org.bukkit.inventory.ItemStack
+      type: GOLD_PICKAXE
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        enchants:
+          DIG_SPEED: 5
+          DURABILITY: 3
+          MENDING: 1
+        repair-cost: 7
+item50:
+      ==: org.bukkit.inventory.ItemStack
+      type: GOLD_PICKAXE
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        enchants:
+          DIG_SPEED: 5
+          DURABILITY: 3
+          MENDING: 1
+        repair-cost: 7
+item51:
+      ==: org.bukkit.inventory.ItemStack
+      type: GOLD_PICKAXE
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        enchants:
+          DIG_SPEED: 5
+          DURABILITY: 3
+          MENDING: 1
+        repair-cost: 7
+item52:
+      ==: org.bukkit.inventory.ItemStack
+      type: GOLD_SPADE
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        enchants:
+          DIG_SPEED: 5
+          DURABILITY: 3
+          MENDING: 1
+        repair-cost: 7
+item53:
+      ==: org.bukkit.inventory.ItemStack
+      type: GOLD_AXE
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        enchants:
+          DIG_SPEED: 5
+          DURABILITY: 3
+          MENDING: 1
+        repair-cost: 7
+item54:
+      ==: org.bukkit.inventory.ItemStack
+      type: BROWN_MUSHROOM
+      amount: 6
+item55:
+      ==: org.bukkit.inventory.ItemStack
+      type: BOWL
+      amount: 6
+item56:
+      ==: org.bukkit.inventory.ItemStack
+      type: IRON_SWORD
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        enchants:
+          DAMAGE_ALL: 1
+        repair-cost: 1
+item57:
+      ==: org.bukkit.inventory.ItemStack
+      type: SPLASH_POTION
+      meta:
+        ==: ItemMeta
+        meta-type: POTION
+        potion-type: minecraft:fire_resistance
+item58:
+      ==: org.bukkit.inventory.ItemStack
+      type: SPLASH_POTION
+      meta:
+        ==: ItemMeta
+        meta-type: POTION
+        potion-type: minecraft:night_vision
+item59:
+      ==: org.bukkit.inventory.ItemStack
+      type: SPLASH_POTION
+      meta:
+        ==: ItemMeta
+        meta-type: POTION
+        potion-type: minecraft:water_breathing
+item60:
+      ==: org.bukkit.inventory.ItemStack
+      type: MUSHROOM_SOUP
+item61:
+      ==: org.bukkit.inventory.ItemStack
+      type: MUSHROOM_SOUP
+item62:
+      ==: org.bukkit.inventory.ItemStack
+      type: MUSHROOM_SOUP
+item63:
+      ==: org.bukkit.inventory.ItemStack
+      type: SPLASH_POTION
+      meta:
+        ==: ItemMeta
+        meta-type: POTION
+        potion-type: minecraft:leaping
+item64:
+      ==: org.bukkit.inventory.ItemStack
+      type: POTION
+      meta:
+        ==: ItemMeta
+        meta-type: POTION
+        potion-type: minecraft:strength
+item65:
+      ==: org.bukkit.inventory.ItemStack
+      type: POTION
+      meta:
+        ==: ItemMeta
+        meta-type: POTION
+        potion-type: minecraft:fire_resistance
+item66:
+      ==: org.bukkit.inventory.ItemStack
+      type: POTION
+      meta:
+        ==: ItemMeta
+        meta-type: POTION
+        potion-type: minecraft:invisibility
+item67:
+      ==: org.bukkit.inventory.ItemStack
+      type: POTION
+      meta:
+        ==: ItemMeta
+        meta-type: POTION
+        potion-type: minecraft:night_vision
+item68:
+      ==: org.bukkit.inventory.ItemStack
+      type: POTION
+      meta:
+        ==: ItemMeta
+        meta-type: POTION
+        potion-type: minecraft:water_breathing
+item69:
+      ==: org.bukkit.inventory.ItemStack
+      type: POTION
+      meta:
+        ==: ItemMeta
+        meta-type: POTION
+        potion-type: minecraft:healing
+item70:
+      ==: org.bukkit.inventory.ItemStack
+      type: POTION
+      meta:
+        ==: ItemMeta
+        meta-type: POTION
+        potion-type: minecraft:regeneration
+item71:
+      ==: org.bukkit.inventory.ItemStack
+      type: RABBIT_STEW
+item72:
+      ==: org.bukkit.inventory.ItemStack
+      type: SPONGE
+      amount: 64
+item73:
+      ==: org.bukkit.inventory.ItemStack
+      type: REDSTONE_TORCH_ON
+      amount: 2
+item74:
+      ==: org.bukkit.inventory.ItemStack
+      type: LEVER
+      amount: 2
+item75:
+      ==: org.bukkit.inventory.ItemStack
+      type: LAVA_BUCKET
+item76:
+      ==: org.bukkit.inventory.ItemStack
+      type: MUSHROOM_SOUP
+item77:
+      ==: org.bukkit.inventory.ItemStack
+      type: MUSHROOM_SOUP
+item78:
+      ==: org.bukkit.inventory.ItemStack
+      type: MUSHROOM_SOUP
+item79:
+      ==: org.bukkit.inventory.ItemStack
+      type: MUSHROOM_SOUP
+item80:
+      ==: org.bukkit.inventory.ItemStack
+      type: MUSHROOM_SOUP
+item81:
+      ==: org.bukkit.inventory.ItemStack
+      type: MUSHROOM_SOUP
+item82:
+      ==: org.bukkit.inventory.ItemStack
+      type: COBBLESTONE
+      amount: 32
+item83:
+      ==: org.bukkit.inventory.ItemStack
+      type: LOG
+      amount: 16
+item84:
+      ==: org.bukkit.inventory.ItemStack
+      type: BOOKSHELF
+      amount: 20
+item85:
+      ==: org.bukkit.inventory.ItemStack
+      type: WATER_BUCKET
+item86:
+      ==: org.bukkit.inventory.ItemStack
+      type: WATER_BUCKET
+item87:
+      ==: org.bukkit.inventory.ItemStack
+      type: WATER_BUCKET
+item88:
+      ==: org.bukkit.inventory.ItemStack
+      type: INK_SACK
+      damage: 4
+      amount: 32
+item89:
+      ==: org.bukkit.inventory.ItemStack
+      type: COAL
+      amount: 32
+item90:
+      ==: org.bukkit.inventory.ItemStack
+      type: MUTTON
+      amount: 64
+item91:
+      ==: org.bukkit.inventory.ItemStack
+      type: TNT
+      amount: 2
+item92:
+      ==: org.bukkit.inventory.ItemStack
+      type: MUSHROOM_SOUP
+item93:
+      ==: org.bukkit.inventory.ItemStack
+      type: GOLD_CHESTPLATE
+item94:
+      ==: org.bukkit.inventory.ItemStack
+      type: GOLD_CHESTPLATE
+item95:
+      ==: org.bukkit.inventory.ItemStack
+      type: COOKED_MUTTON
+      amount: 5
+item96:
+      ==: org.bukkit.inventory.ItemStack
+      type: COOKED_BEEF
+      amount: 4
+item97:
+      ==: org.bukkit.inventory.ItemStack
+      type: WOOD
+      amount: 32
+item98:
+      ==: org.bukkit.inventory.ItemStack
+      type: GRILLED_PORK
+      amount: 4
+item99:
+      ==: org.bukkit.inventory.ItemStack
+      type: DIRT
+      amount: 32
+item100:
+      ==: org.bukkit.inventory.ItemStack
+      type: IRON_INGOT
+      amount: 4
+item101:
+      ==: org.bukkit.inventory.ItemStack
+      type: GOLDEN_CARROT
+      amount: 2
+item102:
+      ==: org.bukkit.inventory.ItemStack
+      type: GOLDEN_APPLE
+      amount: 2
+item103:
+      ==: org.bukkit.inventory.ItemStack
+      type: GOLDEN_APPLE
+      damage: 1
+item104:
+      ==: org.bukkit.inventory.ItemStack
+      type: BROWN_MUSHROOM
+      amount: 6
+item105:
+      ==: org.bukkit.inventory.ItemStack
+      type: STICK
+      amount: 32
+item106:
+      ==: org.bukkit.inventory.ItemStack
+      type: BOWL
+      amount: 6
+item107:
+      ==: org.bukkit.inventory.ItemStack
+      type: COOKED_CHICKEN
+      amount: 5
+item108:
+      ==: org.bukkit.inventory.ItemStack
+      type: RED_MUSHROOM
+      amount: 6
+item109:
+      ==: org.bukkit.inventory.ItemStack
+      type: FIREWORK
+      amount: 64
+item110:
+      ==: org.bukkit.inventory.ItemStack
+      type: FIREWORK
+      amount: 32

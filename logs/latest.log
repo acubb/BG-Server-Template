@@ -1,0 +1,215 @@
+[17:21:00] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[17:21:00] [Server thread/INFO]: Loading properties
+[17:21:00] [Server thread/INFO]: Default game type: SURVIVAL
+[17:21:00] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-79a30d7-acbc348 (MC: 1.12.2) (Implementing API version 1.12.2-R0.1-SNAPSHOT)
+[17:21:00] [Server thread/INFO]: Debug logging is disabled
+[17:21:00] [Server thread/INFO]: Server Ping Player Sample Count: 12
+
+[17:21:00] [Server thread/INFO]: Using 4 threads for Netty based IO
+[17:21:00] [Server thread/INFO]: Generating keypair
+[17:21:00] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:21:00] [Server thread/INFO]: Using default channel type
+[17:21:00] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[17:21:01] [Server thread/INFO]: [ajStartCommands] Loading ajStartCommands v2.0.3
+[17:21:01] [Server thread/INFO]: [OpenTerrainGenerator] Loading OpenTerrainGenerator v1.12.2-v9.3
+[17:21:01] [Server thread/INFO]: [SQLibrary] Loading SQLibrary v7.1
+[17:21:01] [Server thread/INFO]: [AntiSpam-REVAMPED] Loading AntiSpam-REVAMPED v1.0.0-SNAPSHOT
+[17:21:01] [Server thread/INFO]: [ViaVersion] Loading ViaVersion v4.0.1
+[17:21:01] [Server thread/INFO]: [ViaVersion] ViaVersion 4.0.1 is now loaded, injecting!
+[17:21:01] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading 1.12 -> 1.13 mappings...
+[17:21:01] [Via-Mappingloader-1/INFO]: [ViaVersion] Loading 1.13 -> 1.13.2 mappings...
+[17:21:01] [Via-Mappingloader-2/INFO]: [ViaVersion] Loading 1.13.2 -> 1.14 mappings...
+[17:21:01] [Via-Mappingloader-3/INFO]: [ViaVersion] Loading 1.14 -> 1.15 mappings...
+[17:21:01] [Via-Mappingloader-4/INFO]: [ViaVersion] Loading 1.15 -> 1.16 mappings...
+[17:21:01] [Via-Mappingloader-5/INFO]: [ViaVersion] Loading 1.16 -> 1.16.2 mappings...
+[17:21:01] [Via-Mappingloader-6/INFO]: [ViaVersion] Loading 1.16.2 -> 1.17 mappings...
+[17:21:01] [Server thread/INFO]: [WorldBorder] Loading WorldBorder v1.8.7
+[17:21:01] [Server thread/INFO]: [BountifulAPI] Loading BountifulAPI v1.6.4
+[17:21:01] [Server thread/INFO]: [BukkitGames] Loading BukkitGames v3.0.0
+[17:21:01] [Server thread/INFO]: [BukkitGames] Loading the best HungerGames plugin in the whole universe... ;)
+[17:21:01] [Server thread/INFO]: [BukkitGames] ------ BUKKITGAMES STARTUP ------
+[17:21:01] [Server thread/INFO]: [BukkitGames] Version: v3.0.0
+[17:21:01] [Server thread/INFO]: [BukkitGames] Running the one and only BukkitGames plugin! :)
+[17:21:01] [Server thread/INFO]: [BukkitGames] Copyright by ftbastler! - Est. 2012 - Made in Germany.
+[17:21:01] [Server thread/INFO]: [BukkitGames] ------ ------------------- ------
+[17:21:01] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[17:21:01] [Server thread/INFO]: [BukkitGames] Generating a new world...
+[17:21:01] [Server thread/INFO]: [LibsDisguises] Loading LibsDisguises v10.0.26
+[17:21:01] [Server thread/INFO]: [ProtocolLib] Loading ProtocolLib v4.7.0
+[17:21:02] [Server thread/INFO]: [Orebfuscator] Loading Orebfuscator v5.1.6
+[17:21:02] [Server thread/INFO]: [HGAbilities2021] Loading HGAbilities2021 v1.0
+[17:21:02] [Server thread/INFO]: [OpenTerrainGenerator] Enabling OpenTerrainGenerator v1.12.2-v9.3
+[17:21:02] [Thread-6/INFO]: [OTG] Indexing GlobalObjects folder.
+[17:21:02] [Thread-6/INFO]: [OTG] GlobalObjects folder indexed.
+[17:21:02] [Thread-6/INFO]: [OTG] Indexing WorldObjects folder for world world
+[17:21:02] [Thread-6/INFO]: [OTG] WorldObjects folder for world world indexed.
+[17:21:02] [Thread-6/INFO]: [OTG] All CustomObject files indexed.
+[17:21:02] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v4.7.0
+[17:21:02] [Server thread/INFO]: [ProtocolLib] Started structure compiler thread.
+[17:21:02] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[17:21:02] [Server thread/INFO]: Preparing level "world"
+[17:21:02] [Server thread/ERROR]: [OpenTerrainGenerator] Could not set generator for default world 'world': Plugin 'OpenTerrainGenerator v1.12.2-v9.3
+java.lang.ExceptionInInitializerError: null
+	at com.pg85.otg.bukkit.biomes.OTGBiomeBase.createInstance(OTGBiomeBase.java:185) ~[?:?]
+	at com.pg85.otg.bukkit.biomes.BukkitBiome.forCustomBiome(BukkitBiome.java:40) ~[?:?]
+	at com.pg85.otg.bukkit.world.BukkitWorld.createBiomeFor(BukkitWorld.java:477) ~[?:?]
+	at com.pg85.otg.bukkit.world.BukkitWorld.createBiomeFor(BukkitWorld.java:388) ~[?:?]
+	at com.pg85.otg.network.ServerConfigProvider.createAndRegisterBiome(ServerConfigProvider.java:728) ~[?:?]
+	at com.pg85.otg.network.ServerConfigProvider.indexSettings(ServerConfigProvider.java:656) ~[?:?]
+	at com.pg85.otg.network.ServerConfigProvider.loadBiomes(ServerConfigProvider.java:229) ~[?:?]
+	at com.pg85.otg.network.ServerConfigProvider.loadSettings(ServerConfigProvider.java:145) ~[?:?]
+	at com.pg85.otg.network.ServerConfigProvider.<init>(ServerConfigProvider.java:84) ~[?:?]
+	at com.pg85.otg.bukkit.OTGPlugin.getDefaultWorldGenerator(OTGPlugin.java:157) ~[?:?]
+	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.getGenerator(CraftServer.java:1224) [spigot-1.12.2.jar:git-Spigot-79a30d7-acbc348]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.a(MinecraftServer.java:260) [spigot-1.12.2.jar:git-Spigot-79a30d7-acbc348]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.init(DedicatedServer.java:272) [spigot-1.12.2.jar:git-Spigot-79a30d7-acbc348]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:545) [spigot-1.12.2.jar:git-Spigot-79a30d7-acbc348]
+	at java.lang.Thread.run(Thread.java:831) [?:?]
+Caused by: java.lang.RuntimeException: java.lang.NoSuchMethodException: sun.reflect.ReflectionFactory.newConstructorAccessor(java.lang.reflect.Constructor)
+	at com.pg85.otg.bukkit.util.EnumHelper.<clinit>(EnumHelper.java:39) ~[?:?]
+	... 15 more
+Caused by: java.lang.NoSuchMethodException: sun.reflect.ReflectionFactory.newConstructorAccessor(java.lang.reflect.Constructor)
+	at java.lang.Class.getDeclaredMethod(Class.java:2613) ~[?:?]
+	at com.pg85.otg.bukkit.util.EnumHelper.<clinit>(EnumHelper.java:33) ~[?:?]
+	... 15 more
+[17:21:02] [Server thread/INFO]: -------- World Settings For [world] --------
+[17:21:02] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[17:21:02] [Server thread/INFO]: Experience Merge Radius: 3.0
+[17:21:02] [Server thread/INFO]: Mob Spawn Range: 4
+[17:21:02] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[17:21:02] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[17:21:02] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[17:21:02] [Server thread/INFO]: Cane Growth Modifier: 100%
+[17:21:02] [Server thread/INFO]: Melon Growth Modifier: 100%
+[17:21:02] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[17:21:02] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[17:21:02] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[17:21:02] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[17:21:02] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[17:21:02] [Server thread/INFO]: Vine Growth Modifier: 100%
+[17:21:02] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[17:21:02] [Server thread/INFO]: Max TNT Explosions: 100
+[17:21:02] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[17:21:02] [Server thread/INFO]: Structure Info Saving: true
+[17:21:02] [Server thread/INFO]: Random Lighting Updates: false
+[17:21:02] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[17:21:02] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[17:21:02] [Server thread/INFO]: Item Despawn Rate: 6000
+[17:21:02] [Server thread/INFO]: Item Merge Radius: 2.5
+[17:21:02] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[17:21:02] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[17:21:02] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[17:21:02] [Server thread/INFO]: View Distance: 10
+[17:21:03] [Server thread/INFO]: Preparing start region for level 0 (Seed: -3966423718366926057)
+[17:21:04] [Server thread/INFO]: Preparing spawn area: 13%
+[17:21:05] [Server thread/INFO]: Preparing spawn area: 26%
+[17:21:06] [Server thread/INFO]: Preparing spawn area: 42%
+[17:21:07] [Server thread/INFO]: Preparing spawn area: 62%
+[17:21:08] [Server thread/INFO]: Preparing spawn area: 87%
+[17:21:09] [Server thread/INFO]: [ajStartCommands] Enabling ajStartCommands v2.0.3
+[17:21:09] [Server thread/INFO]: [0;32;1majStartCommands v[0;32;22m2.0.3 [0;32;1mby ajgeiss0702 has been enabled![m
+
+[17:21:09] [Server thread/INFO]: [SQLibrary] Enabling SQLibrary v7.1
+[17:21:09] [Server thread/INFO]: SQLibrary loaded.
+[17:21:09] [Server thread/INFO]: [AntiSpam-REVAMPED] Enabling AntiSpam-REVAMPED v1.0.0-SNAPSHOT
+[17:21:09] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v4.0.1
+[17:21:09] [Server thread/INFO]: [WorldBorder] Enabling WorldBorder v1.8.7
+[17:21:09] [Server thread/INFO]: [WorldBorder] [CONFIG] Using rectangular/square border, knockback of 1.0 blocks, and timer delay of 5.
+[17:21:09] [Server thread/INFO]: [WorldBorder] [CONFIG] Border-checking timed task started.
+[17:21:09] [Server thread/INFO]: [WorldBorder] [CONFIG] World "world" has border radius 1000 at X: -236.0 Z: 256.0
+[17:21:09] [Server thread/INFO]: [WorldBorder] For reference, the main world's spawn location is at X: -695.0 Y: 64.0 Z: 844.0
+[17:21:09] [Server thread/INFO]: [BountifulAPI] Enabling BountifulAPI v1.6.4
+[17:21:09] [Server thread/INFO]: [0;36;1mBountifulAPI V1.6.4 has been enabled![m
+
+[17:21:09] [Server thread/INFO]: [BukkitGames] Enabling BukkitGames v3.0.0
+[17:21:09] [Server thread/INFO]: [BukkitGames] Found BountifulAPI v1.6.4. Hooking in...
+[17:21:09] [Server thread/INFO]: [BukkitGames] Loaded a total of 18 kits.
+[17:21:09] [Thread-8/WARN]: [BukkitGames] Something went wrong while checking for updates.
+[17:21:09] [Thread-8/INFO]: [BukkitGames] Please check the plugin's page to see if there are any updates available.
+[17:21:09] [Server thread/INFO]: [BukkitGames] BG:SQLite[SQLite] Connected to database.
+[17:21:09] [Server thread/INFO]: [BukkitGames] Startup completed and ready for fighting! (0.2s)
+[17:21:09] [Server thread/INFO]: [LibsDisguises] Enabling LibsDisguises v10.0.26
+[17:21:09] [Server thread/INFO]: [LibsDisguises] File Name: LibsDisguises-10.0.24-Free.jar
+[17:21:09] [Server thread/INFO]: [LibsDisguises] Discovered nms version: v1_12_R1
+[17:21:09] [Server thread/INFO]: [LibsDisguises] Jenkins Build: #972
+[17:21:09] [Server thread/INFO]: [LibsDisguises] Build Date: 16/07/2021 20:00
+[17:21:09] [Server thread/WARN]: [LibsDisguises] If you own the plugin, place the premium jar downloaded from https://www.spigotmc.org/resources/libs-disguises.32453/ in plugins/LibsDisguises/
+[17:21:09] [Server thread/INFO]: [LibsDisguises] You are running the free version, commands limited to non-players and operators. (Console, Command Blocks, Admins)
+[17:21:10] [Server thread/INFO]: [LibsDisguises] Loaded custom disguise libraryaddict
+[17:21:10] [Server thread/INFO]: [LibsDisguises] Loaded 1 custom disguise
+[17:21:10] [Server thread/INFO]: [LibsDisguises] Config is up to date!
+[17:21:10] [Server thread/INFO]: [Orebfuscator] Enabling Orebfuscator v5.1.6
+[17:21:10] [Server thread/INFO]: [Orebfuscator] Using 'orebfuscator_cache' as chunk cache path
+[17:21:10] [Server thread/INFO]: [Orebfuscator] cache.protocolLibThreads is less than one, choosing processor count as value = 6
+[17:21:10] [Server thread/INFO]: [Orebfuscator] Searching NMS adapter for server version "v1_12_R1"!
+[17:21:10] [Server thread/INFO]: [Orebfuscator] NMS adapter for server version "v1_12_R1" found!
+[17:21:10] [Server thread/INFO]: [HGAbilities2021] Enabling HGAbilities2021 v1.0
+[17:21:10] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[17:21:10] [Server thread/INFO]: Done (8.492s)! For help, type "help" or "?"
+[17:21:10] [Server thread/INFO]: Game rule announceAchievements has been updated to false
+[17:21:10] [Server thread/INFO]: Game rule announceAdvancements has been updated to false
+[17:21:10] [Server thread/INFO]: [WorldBorder] Set default border shape to rectangular/square.
+[17:21:10] [Server thread/INFO]: [WorldBorder] [CONFIG] Configuration saved.
+[17:21:10] [Server thread/INFO]: [WorldBorder] Border set. World "world" has border radius 1000 at X: -695.0 Z: 844.0
+[17:21:10] [Server thread/INFO]: [WorldBorder] [CONFIG] Configuration saved.
+[17:21:10] [Server thread/INFO]: Border has been set. World "world" has border radius 1000 at X: -695.0 Z: 844.0[m
+
+[17:21:10] [Server thread/INFO]: [WorldBorder] Knockback set to 1.0 blocks inside the border.
+[17:21:10] [Server thread/INFO]: [WorldBorder] [CONFIG] Configuration saved.
+[17:21:10] [Server thread/INFO]: [0;33;1mWorld generation task is ready for world "world", attempting to process up to 1500 chunks per second (default 20). The map will be padded out 208 blocks beyond the border (default 208). Parts of the world which are already fully generated will be loaded anyway.[m
+
+[17:21:10] [Server thread/INFO]: [0;33;1mThis process can take a very long time depending on the world's border size. Also, depending on the chunk processing rate, players will likely experience severe lag for the duration.[m
+
+[17:21:10] [Server thread/INFO]: [0;37;1mYou should now use [0;36;1mwb [0;36;1m[4mfill[m [0;36;1mconfirm[0;37;1m to start the process.[m
+
+[17:21:10] [Server thread/INFO]: [0;37;1mYou can cancel at any time with [0;36;1mwb [0;36;1m[4mfill[m [0;36;1mcancel[0;37;1m, or pause/unpause with [0;36;1mwb [0;36;1m[4mfill[m [0;36;1mpause[0;37;1m.[m
+
+[17:21:10] [Server thread/INFO]: [WorldBorder] world: world  padding: 208  repeats: 75  ticks: 1
+[17:21:10] [Server thread/INFO]: WorldBorder map generation task for world "world" started.[m
+
+[17:21:10] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.12.2 (340)
+[17:21:10] [Server thread/WARN]: [ViaVersion] This version of Minecraft is extremely outdated and support for it has reached its end of life. You will still be able to run Via on this Minecraft version, but we are unlikely to provide any further fixes or help with problems specific to legacy Minecraft versions. Please consider updating to give your players a better experience and to avoid issues that have long been fixed.
+[17:21:10] [Server thread/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
+[17:21:10] [Server thread/INFO]: [BountifulAPI] No update was found, you are running the latest version.
+[17:21:15] [Server thread/INFO]: [WorldBorder] [Fill] 1173 more chunks processed (1173 total, ~5.0%) (free mem: 8820 MB)
+[17:21:19] [User Authenticator #1/INFO]: UUID of player aussiecabbages is a4ca1a4d-a055-4db2-af06-224c37bd7b0e
+[17:21:19] [Server thread/INFO]: aussiecabbages[/192.168.1.1:56725] logged in with entity id 2784 at ([world]-704.5, 63.0, 836.5)
+[17:21:20] [Server thread/INFO]: [WorldBorder] [Fill] 466 more chunks processed (1639 total, ~7.0%) (free mem: 9744 MB)
+[17:21:25] [Server thread/INFO]: [WorldBorder] [Fill] 430 more chunks processed (2069 total, ~8.8%) (free mem: 8342 MB)
+[17:21:27] [User Authenticator #2/INFO]: UUID of player petalgoyle is a2e8a100-5220-415f-8da8-504398a91f19
+[17:21:27] [Server thread/INFO]: petalgoyle[/71.173.135.3:49730] logged in with entity id 3530 at ([world]-687.5, 64.0, 841.5)
+[17:21:30] [Server thread/INFO]: [WorldBorder] [Fill] 477 more chunks processed (2546 total, ~10.8%) (free mem: 9031 MB)
+[17:21:34] [Async Chat Thread - #0/INFO]: [maussiecabbages[m: uhh i can explain[m
+
+[17:21:35] [Server thread/INFO]: [WorldBorder] [Fill] 619 more chunks processed (3165 total, ~13.4%) (free mem: 9880 MB)
+[17:21:36] [Async Chat Thread - #0/INFO]: [mpetalgoyle[m: what is this[m
+
+[17:21:40] [Server thread/INFO]: [WorldBorder] [Fill] 645 more chunks processed (3810 total, ~16.2%) (free mem: 8552 MB)
+[17:21:44] [Async Chat Thread - #0/INFO]: [maussiecabbages[m: this is my hunger games server im working on[m
+
+[17:21:45] [Server thread/INFO]: [WorldBorder] [Fill] 596 more chunks processed (4406 total, ~18.7%) (free mem: 9403 MB)
+[17:21:46] [Async Chat Thread - #0/INFO]: [mpetalgoyle[m: is this the hungr games this[m
+
+[17:21:46] [Server thread/INFO]: [0;34;1mWe need at least 6 players to start the game.[m
+
+[17:21:50] [Server thread/INFO]: [WorldBorder] [Fill] 631 more chunks processed (5037 total, ~21.4%) (free mem: 8088 MB)
+[17:21:53] [Async Chat Thread - #0/INFO]: [maussiecabbages[m: check out the kits[m
+
+[17:21:55] [Server thread/INFO]: [WorldBorder] [Fill] 622 more chunks processed (5659 total, ~24.0%) (free mem: 8932 MB)
+[17:22:00] [Async Chat Thread - #0/INFO]: [maussiecabbages[m: right click the chest[m
+
+[17:22:00] [Server thread/INFO]: [WorldBorder] [Fill] 576 more chunks processed (6235 total, ~26.5%) (free mem: 7690 MB)
+[17:22:05] [Async Chat Thread - #0/INFO]: [0;30;1m[Chameleon] [mpetalgoyle[m: stink idk what ur talking about[m
+
+[17:22:05] [Server thread/INFO]: [WorldBorder] [Fill] 587 more chunks processed (6822 total, ~29.0%) (free mem: 8586 MB)
+[17:22:07] [Server thread/INFO]: petalgoyle lost connection: Disconnected
+[17:22:07] [Server thread/INFO]: petalgoyle has left.
+[17:22:10] [Server thread/INFO]: [WorldBorder] [Fill] 615 more chunks processed (7437 total, ~31.6%) (free mem: 9363 MB)
+[17:22:15] [Server thread/INFO]: [WorldBorder] [Fill] 644 more chunks processed (8081 total, ~34.3%) (free mem: 7999 MB)
+[17:22:20] [Server thread/INFO]: [WorldBorder] [Fill] 637 more chunks processed (8718 total, ~37.0%) (free mem: 8811 MB)
+[17:22:20] [Server thread/INFO]: [0;34;1mWe need at least 6 players to start the game.[m
+
+[17:22:25] [Server thread/INFO]: [WorldBorder] [Fill] 603 more chunks processed (9321 total, ~39.6%) (free mem: 7491 MB)
+[17:22:30] [Server thread/INFO]: [WorldBorder] [Fill] 657 more chunks processed (9978 total, ~42.3%) (free mem: 8320 MB)
+[17:22:35] [Server thread/INFO]: [WorldBorder] [Fill] 540 more chunks processed (10518 total, ~44.6%) (free mem: 9289 MB)
+[17:22:40] [Server thread/INFO]: [WorldBorder] [Fill] 610 more chunks processed (11128 total, ~47.2%) (free mem: 8009 MB)

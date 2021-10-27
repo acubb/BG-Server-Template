@@ -1,0 +1,192 @@
+[20:41:41] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[20:41:41] [Server thread/INFO]: Loading properties
+[20:41:41] [Server thread/INFO]: Default game type: SURVIVAL
+[20:41:41] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-79a30d7-acbc348 (MC: 1.12.2) (Implementing API version 1.12.2-R0.1-SNAPSHOT)
+[20:41:41] [Server thread/INFO]: Debug logging is disabled
+[20:41:41] [Server thread/INFO]: Using 4 threads for Netty based IO
+[20:41:41] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[20:41:41] [Server thread/INFO]: Generating keypair
+[20:41:41] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:41:41] [Server thread/INFO]: Using default channel type
+[20:41:42] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[20:41:42] [Server thread/INFO]: [ajStartCommands] Loading ajStartCommands v2.0.3
+[20:41:42] [Server thread/INFO]: [AntiSpam-REVAMPED] Loading AntiSpam-REVAMPED v1.0.0-SNAPSHOT
+[20:41:42] [Server thread/INFO]: [BountifulAPI] Loading BountifulAPI v1.6.4
+[20:41:42] [Server thread/INFO]: [PlaceholderAPI] Loading PlaceholderAPI v2.10.9
+[20:41:42] [Server thread/INFO]: [SQLibrary] Loading SQLibrary v7.1
+[20:41:42] [Server thread/INFO]: [ViaVersion] Loading ViaVersion v3.2.1
+[20:41:42] [Server thread/INFO]: [ViaVersion] ViaVersion 3.2.1 is now loaded, injecting!
+[20:41:42] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading 1.12 -> 1.13 mappings...
+[20:41:42] [Via-Mappingloader-1/INFO]: [ViaVersion] Loading 1.13 -> 1.13.2 mappings...
+[20:41:42] [Via-Mappingloader-2/INFO]: [ViaVersion] Loading 1.13.2 -> 1.14 mappings...
+[20:41:42] [Via-Mappingloader-3/INFO]: [ViaVersion] Loading 1.14 -> 1.15 mappings...
+[20:41:42] [Server thread/INFO]: [Skript] Loading Skript v2.5.3
+[20:41:42] [Server thread/INFO]: [LibsDisguises] Loading LibsDisguises v10.0.24
+[20:41:42] [Via-Mappingloader-4/INFO]: [ViaVersion] Loading 1.15 -> 1.16 mappings...
+[20:41:42] [Via-Mappingloader-5/INFO]: [ViaVersion] Loading 1.16 -> 1.16.2 mappings...
+[20:41:42] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[20:41:42] [Server thread/INFO]: [NoCheatPlus] Loading NoCheatPlus v3.16.0-RC-sMD5NET-b1134
+[20:41:42] [Server thread/INFO]: [NoCheatPlus] onLoad: Early set up of static API, configuration, logging.
+[20:41:42] [Server thread/INFO]: [NoCheatPlus] Logging system initialized.
+[20:41:42] [Server thread/INFO]: [NoCheatPlus] Detected Minecraft version: 1.12.2
+[20:41:42] [Server thread/INFO]: [BukkitGames] Loading BukkitGames v3.0.0
+[20:41:42] [Server thread/INFO]: [BukkitGames] Loading the best HungerGames plugin in the whole universe... ;)
+[20:41:42] [Server thread/INFO]: [BukkitGames] ------ BUKKITGAMES STARTUP ------
+[20:41:42] [Server thread/INFO]: [BukkitGames] Version: v3.0.0
+[20:41:42] [Server thread/INFO]: [BukkitGames] Running the one and only BukkitGames plugin! :)
+[20:41:42] [Server thread/INFO]: [BukkitGames] Copyright by ftbastler! - Est. 2012 - Made in Germany.
+[20:41:42] [Server thread/INFO]: [BukkitGames] ------ ------------------- ------
+[20:41:42] [Server thread/INFO]: [BukkitGames] Generating a new world...
+[20:41:42] [Server thread/INFO]: [BGAbilities] Loading BGAbilities v1.0
+[20:41:42] [Server thread/INFO]: [HolographicDisplays] Loading HolographicDisplays v2.4.6
+[20:41:42] [Server thread/INFO]: [HolographicExtension] Loading HolographicExtension v1.10.9
+[20:41:42] [Server thread/INFO]: [ProtocolLib] Loading ProtocolLib v4.5.1
+[20:41:42] [Server thread/INFO]: [Orebfuscator] Loading Orebfuscator v5.1.4
+[20:41:42] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v4.5.1
+[20:41:42] [Server thread/INFO]: [ProtocolLib] Started structure compiler thread.
+[20:41:42] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[20:41:42] [Server thread/INFO]: Preparing level "world"
+[20:41:42] [Server thread/INFO]: -------- World Settings For [world] --------
+[20:41:42] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[20:41:42] [Server thread/INFO]: Item Despawn Rate: 6000
+[20:41:42] [Server thread/INFO]: Item Merge Radius: 2.5
+[20:41:42] [Server thread/INFO]: View Distance: 8
+[20:41:42] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[20:41:42] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[20:41:42] [Server thread/INFO]: Experience Merge Radius: 3.0
+[20:41:42] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[20:41:42] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[20:41:42] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[20:41:42] [Server thread/INFO]: Cane Growth Modifier: 100%
+[20:41:42] [Server thread/INFO]: Melon Growth Modifier: 100%
+[20:41:42] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[20:41:42] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[20:41:42] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[20:41:42] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[20:41:42] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[20:41:42] [Server thread/INFO]: Vine Growth Modifier: 100%
+[20:41:42] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[20:41:42] [Server thread/INFO]: Mob Spawn Range: 4
+[20:41:42] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[20:41:42] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[20:41:42] [Server thread/INFO]: Random Lighting Updates: false
+[20:41:42] [Server thread/INFO]: Max TNT Explosions: 100
+[20:41:42] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[20:41:42] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[20:41:42] [Server thread/INFO]: Structure Info Saving: true
+[20:41:43] [Server thread/WARN]: Unable to find spawn biome
+[20:41:43] [Server thread/INFO]: Preparing start region for level 0 (Seed: -1779090827750346698)
+[20:41:44] [Server thread/INFO]: Preparing spawn area: 13%
+[20:41:45] [Server thread/INFO]: Preparing spawn area: 30%
+[20:41:46] [Server thread/INFO]: Preparing spawn area: 52%
+[20:41:47] [Server thread/INFO]: Preparing spawn area: 75%
+[20:41:48] [Server thread/INFO]: Preparing spawn area: 96%
+[20:41:48] [Server thread/INFO]: [ajStartCommands] Enabling ajStartCommands v2.0.3
+[20:41:48] [Server thread/INFO]: [0;32;1majStartCommands v[0;32;22m2.0.3 [0;32;1mby ajgeiss0702 has been enabled![m
+[20:41:48] [Server thread/INFO]: [AntiSpam-REVAMPED] Enabling AntiSpam-REVAMPED v1.0.0-SNAPSHOT
+[20:41:48] [Server thread/INFO]: [BountifulAPI] Enabling BountifulAPI v1.6.4
+[20:41:48] [Server thread/INFO]: [0;36;1mBountifulAPI V1.6.4 has been enabled![m
+[20:41:48] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.10.9
+[20:41:48] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[20:41:48] [Server thread/INFO]: [SQLibrary] Enabling SQLibrary v7.1
+[20:41:48] [Server thread/INFO]: SQLibrary loaded.
+[20:41:48] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v3.2.1
+[20:41:48] [Server thread/INFO]: [Skript] Enabling Skript v2.5.3
+[20:41:49] [ForkJoinPool.commonPool-worker-2/INFO]: [0;37;22m[[0;33;22mSkript[0;37;22m][m You're currently running the latest stable version of Skript.[m
+[20:41:50] [Server thread/INFO]: [Skript] Loaded 18217 aliases in 1724ms
+[20:41:50] [Server thread/INFO]: [Skript]  ~ created by & © Peter Güttinger aka Njol ~
+[20:41:50] [Server thread/INFO]: [LibsDisguises] Enabling LibsDisguises v10.0.24
+[20:41:50] [Server thread/INFO]: [LibsDisguises] File Name: LibsDisguises-10.0.24-Free.jar
+[20:41:50] [Server thread/INFO]: [LibsDisguises] Discovered nms version: v1_12_R1
+[20:41:50] [Server thread/INFO]: [LibsDisguises] Jenkins Build: #878
+[20:41:50] [Server thread/INFO]: [LibsDisguises] Build Date: 13/02/2021 01:57
+[20:41:50] [Server thread/WARN]: [LibsDisguises] If you own the plugin, place the premium jar downloaded from https://www.spigotmc.org/resources/libs-disguises.32453/ in plugins/LibsDisguises/
+[20:41:50] [Server thread/INFO]: [LibsDisguises] You are running the free version, commands limited to non-players and operators. (Console, Command Blocks, Admins)
+[20:41:51] [Server thread/INFO]: [LibsDisguises] Loaded custom disguise libraryaddict
+[20:41:51] [Server thread/INFO]: [LibsDisguises] Loaded 1 custom disguise
+[20:41:51] [Server thread/INFO]: [LibsDisguises] Config is up to date!
+[20:41:51] [Server thread/INFO]: [NoCheatPlus] Enabling NoCheatPlus v3.16.0-RC-sMD5NET-b1134
+[20:41:51] [Server thread/INFO]: [NoCheatPlus] McAccess set to: 1.12-1.12.2 / Spigot-CB-1.12_R1
+[20:41:51] [Server thread/INFO]: [NoCheatPlus] Added block-info for Minecraft 1.5 blocks.
+[20:41:51] [Server thread/INFO]: [NoCheatPlus] Added block-info for Minecraft 1.6.1 blocks.
+[20:41:51] [Server thread/INFO]: [NoCheatPlus] Added block-info for Minecraft 1.7.2 blocks.
+[20:41:51] [Server thread/INFO]: [NoCheatPlus] Added block-info for Minecraft 1.8 blocks.
+[20:41:51] [Server thread/INFO]: [NoCheatPlus] Added block-info for Minecraft 1.9 blocks.
+[20:41:51] [Server thread/INFO]: [NoCheatPlus] Added block-info for Minecraft 1.10 blocks.
+[20:41:51] [Server thread/INFO]: [NoCheatPlus] Added block-info for Minecraft 1.11 blocks.
+[20:41:51] [Server thread/INFO]: [NoCheatPlus] Added block-info for Minecraft 1.12 blocks.
+[20:41:51] [Server thread/INFO]: [NoCheatPlus] Update block-info: WATER_LILY block shape patch for multi client protocol support around 1.7.x - 1.11.x.
+[20:41:51] [Server thread/INFO]: [NoCheatPlus] Inventory checks: FastConsume is available, disabled InstantEat.
+[20:41:51] [Server thread/INFO]: [NoCheatPlus] Adding packet level hooks for ProtocolLib (MC 1.12.2)...
+[20:41:51] [Server thread/INFO]: [NoCheatPlus] Available (and activated) packet level hooks: UseEntityAdapter | MovingFlying | OutgoingPosition | KeepAliveAdapter | SoundDistance
+[20:41:51] [Server thread/INFO]: [NoCheatPlus] Force disable FastHeal on Minecraft 1.9 and later.
+[20:41:51] [Server thread/INFO]: [NoCheatPlus] Version 3.16.0-RC-sMD5NET-b1134 is enabled.
+[20:41:51] [Server thread/INFO]: [BukkitGames] Enabling BukkitGames v3.0.0
+[20:41:51] [Server thread/INFO]: [BukkitGames] Found Skript v2.5.3. Hooking in...
+[20:41:51] [Server thread/INFO]: [BukkitGames] Found BountifulAPI v1.6.4. Hooking in...
+[20:41:51] [Server thread/INFO]: [BukkitGames] Loaded a total of 18 kits.
+[20:41:51] [Thread-10/WARN]: [BukkitGames] Something went wrong while checking for updates.
+[20:41:51] [Thread-10/INFO]: [BukkitGames] Please check the plugin's page to see if there are any updates available.
+[20:41:51] [Server thread/INFO]: [BukkitGames] BG:SQLite[SQLite] Connected to database.
+[20:41:51] [Server thread/WARN]: [BukkitGames] Your max. game time is not ideal. It should be at least 15 minutes.
+[20:41:51] [Server thread/INFO]: [BukkitGames] Startup completed and ready for fighting! (0.2s)
+[20:41:51] [Server thread/INFO]: [BGAbilities] Enabling BGAbilities v1.0
+[20:41:51] [Server thread/INFO]: [BGAbilities] Enabled extended abilities! (v1.0)
+[20:41:51] [Server thread/INFO]: [HolographicDisplays] Enabling HolographicDisplays v2.4.6
+[20:41:51] [Server thread/INFO]: [HolographicDisplays] Enabled player relative placeholders with ProtocolLib.
+[20:41:51] [Server thread/INFO]: [HolographicExtension] Enabling HolographicExtension v1.10.9
+[20:41:51] [Server thread/INFO]: [0;33;1m[HolographicExtension] [0;37;1mStarting HolographicExtension v1.10.9[m
+[20:41:51] [Server thread/INFO]: [0;33;1m[HolographicExtension] [0;37;22mRegistering placeholder 'example' from config.[m
+[20:41:51] [Server thread/INFO]: [0;33;1m[HolographicExtension] [0;37;22mRegistering placeholder 'scroller' from config.[m
+[20:41:51] [Server thread/INFO]: [0;33;1m[HolographicExtension] [0;37;22mRegistering placeholder 'typing' from config.[m
+[20:41:51] [Server thread/INFO]: [0;33;1m[HolographicExtension] [0;37;22mRegistering placeholder 'rainbow' from config.[m
+[20:41:51] [Server thread/INFO]: [Orebfuscator] Enabling Orebfuscator v5.1.4
+[20:41:51] [Server thread/INFO]: [Orebfuscator] Using 'orebfuscator_cache' as chunk cache path
+[20:41:51] [Server thread/INFO]: [Orebfuscator] cache.protocolLibThreads is less than one, choosing processor count as value = 6
+[20:41:51] [Server thread/INFO]: [Orebfuscator] Searching NMS adapter for server version "v1_12_R1"!
+[20:41:51] [Server thread/INFO]: [Orebfuscator] NMS adapter for server version "v1_12_R1" found!
+[20:41:51] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[20:41:51] [Server thread/INFO]: Done (8.711s)! For help, type "help" or "?"
+[20:41:51] [Server thread/INFO]: Game rule announceAchievements has been updated to false
+[20:41:51] [Server thread/INFO]: Game rule announceAdvancements has been updated to false
+[20:41:51] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.12.2(340)
+[20:41:51] [Server thread/INFO]: [Skript] Loading variables...
+[20:41:51] [Server thread/INFO]: [Skript] Loaded 8 variables in 0.0 seconds
+[20:41:51] [Server thread/INFO]: [Skript] All scripts loaded without errors.
+[20:41:51] [Server thread/INFO]: [Skript] Loaded 2 scripts with a total of 3 triggers and 3 commands in 0.08 seconds
+[20:41:51] [Server thread/INFO]: [Skript] Finished loading.
+[20:41:51] [Craft Scheduler Thread - 0/INFO]: [NoCheatPlus] Added hook: AllViolations(NCP) [1.0].
+[20:41:51] [Server thread/INFO]: [NoCheatPlus] Post-enable running...
+[20:41:52] [Server thread/INFO]: [NoCheatPlus] Post-enable finished.
+[20:41:52] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[20:41:52] [Server thread/INFO]: [0;33;22mNo expansions were registered![m
+[20:41:52] [Server thread/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
+[20:41:52] [Server thread/INFO]: [BountifulAPI] No update was found, you are running the latest version.
+[20:42:01] [User Authenticator #1/INFO]: UUID of player aussiecabbages is a4ca1a4d-a055-4db2-af06-224c37bd7b0e
+[20:42:01] [Server thread/INFO]: aussiecabbages[/192.168.1.1:50677] logged in with entity id 1806 at ([world]12.5, 64.0, -80.5)
+[20:42:02] [Server thread/WARN]: aussiecabbages moved too quickly! -4.5,0.0,9.5
+[20:42:20] [Server thread/INFO]: [0;34;1mWe need at least 2 gumblers to start the game.[m
+[20:42:30] [Server thread/INFO]: aussiecabbages issued server command: /hg
+[20:42:35] [Server thread/INFO]: aussiecabbages issued server command: /holographicdisplays:holograms
+[20:42:41] [Server thread/INFO]: aussiecabbages issued server command: /holographicdisplays:holograms help
+[20:42:46] [Server thread/INFO]: aussiecabbages issued server command: /holographicdisplays:holograms list
+[20:42:51] [Server thread/INFO]: [0;34;1mWe need at least 2 gumblers to start the game.[m
+[20:42:57] [Server thread/INFO]: aussiecabbages issued server command: /holographicdisplays:holograms create
+[20:43:04] [Server thread/INFO]: aussiecabbages issued server command: /holographicdisplays:holograms create spawnHolo hi!
+[20:43:18] [Server thread/INFO]: aussiecabbages issued server command: /holographicdisplays:holograms create delete spawnHolo
+[20:43:21] [Server thread/INFO]: [0;34;1mWe need at least 2 gumblers to start the game.[m
+[20:43:25] [Server thread/INFO]: aussiecabbages issued server command: /holographicdisplays:holograms delete spawnHolo
+[20:43:31] [Server thread/INFO]: aussiecabbages issued server command: /holographicdisplays:holograms delete spawnHolo
+[20:43:37] [Server thread/INFO]: aussiecabbages issued server command: /holographicdisplays:holograms delete delete
+[20:43:51] [Server thread/INFO]: [0;34;1mWe need at least 2 gumblers to start the game.[m
+[20:44:21] [Server thread/INFO]: [0;34;1mWe need at least 2 gumblers to start the game.[m
+[20:44:51] [Server thread/INFO]: [0;34;1mWe need at least 2 gumblers to start the game.[m
+[20:45:21] [Server thread/INFO]: [0;34;1mWe need at least 2 gumblers to start the game.[m
+[20:45:52] [Server thread/INFO]: [0;34;1mWe need at least 2 gumblers to start the game.[m
+[20:46:22] [Server thread/INFO]: [0;34;1mWe need at least 2 gumblers to start the game.[m
+[20:46:52] [Server thread/INFO]: [0;34;1mWe need at least 2 gumblers to start the game.[m
+[20:47:22] [Server thread/INFO]: [0;34;1mWe need at least 2 gumblers to start the game.[m
+[20:47:52] [Server thread/INFO]: [0;34;1mWe need at least 2 gumblers to start the game.[m
+[20:48:23] [Server thread/INFO]: [0;34;1mWe need at least 2 gumblers to start the game.[m
+[20:48:53] [Server thread/INFO]: [0;34;1mWe need at least 2 gumblers to start the game.[m
+[20:49:23] [Server thread/INFO]: [0;34;1mWe need at least 2 gumblers to start the game.[m

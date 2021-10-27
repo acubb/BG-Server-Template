@@ -1,0 +1,2 @@
+# Time for non-bypassed users to wait before sending another message in seconds!
+message-cooldown-time: 2

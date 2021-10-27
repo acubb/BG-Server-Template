@@ -1,0 +1,264 @@
+# This is your kit.yml file. In here you can add and customize your kits.
+# 
+# Edit with caution! If your configuration doesn't work validate your YAML syntax!
+# READ FIRST BEFORE DOING ANYTHING IN HERE:
+# -> https://bitbucket.org/ftbastler/bukkitgames/wiki/
+Stomper:
+  ITEMS: {}
+  COST: 0
+  ABILITIES:
+  - 56
+  - 41
+  ICON: CHAINMAIL_BOOTS
+Pyro:
+  ITEMS:
+    item1:
+      ==: org.bukkit.inventory.ItemStack
+      type: FLINT_AND_STEEL
+  COST: 0
+  ABILITIES:
+  - 57
+  ICON: LAVA_BUCKET
+Miner:
+  ITEMS:
+    item1:
+      ==: org.bukkit.inventory.ItemStack
+      type: STONE_PICKAXE
+    item2:
+      ==: org.bukkit.inventory.ItemStack
+      type: STONE_SPADE
+    item3:
+      ==: org.bukkit.inventory.ItemStack
+      type: TORCH
+      amount: 16
+  COST: 0
+  ABILITIES:
+  - 20
+  - 50
+  ICON: STONE_PICKAXE
+Hunter:
+  ITEMS:
+    item1:
+      ==: org.bukkit.inventory.ItemStack
+      type: BONE
+  COST: 0
+  ABILITIES:
+  - 39
+  - 40
+  - 55
+  ICON: BONE
+Poseidon:
+  ITEMS:
+    item1:
+      ==: org.bukkit.inventory.ItemStack
+      type: GLASS_BOTTLE
+    item2:
+      ==: org.bukkit.inventory.ItemStack
+      type: WATER_BUCKET
+  COST: 0
+  ABILITIES:
+  - 21
+  ICON: WATER_BUCKET
+Jumper:
+  ITEMS:
+    item1:
+      ==: org.bukkit.inventory.ItemStack
+      type: SNOW_BALL
+      amount: 32
+  COST: 0
+  ABILITIES:
+  - 25
+  - 49
+  ICON: SNOW_BALL
+Icarus:
+  ITEMS:
+    item1:
+      ==: org.bukkit.inventory.ItemStack
+      type: ELYTRA
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        repair-cost: 1
+    item2:
+      ==: org.bukkit.inventory.ItemStack
+      type: SULPHUR
+      amount: 32
+    item3:
+      ==: org.bukkit.inventory.ItemStack
+      type: SUGAR_CANE
+      amount: 16
+  COST: 0
+  ABILITIES:
+  - 27
+  - 34
+  ICON: ELYTRA
+Dryad:
+  ITEMS: {}
+  COST: 0
+  ABILITIES:
+  - 28
+  - 67
+  - 58
+  ICON: SAPLING
+Shadow:
+  ITEMS:
+    item1:
+      ==: org.bukkit.inventory.ItemStack
+      type: WATCH
+  COST: 0
+  ABILITIES:
+  - 29
+  - 48
+  - 61
+  ICON: WATCH
+Chameleon:
+  ITEMS:
+    item1:
+      ==: org.bukkit.inventory.ItemStack
+      type: MONSTER_EGG
+      meta:
+        ==: ItemMeta
+        meta-type: SPAWN_EGG
+        internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYeDNzcxLTS5KTCuxKshMZ2AAANkfh0IlAAAA
+        id: pig
+    item2:
+      ==: org.bukkit.inventory.ItemStack
+      type: MONSTER_EGG
+      meta:
+        ==: ItemMeta
+        meta-type: SPAWN_EGG
+        internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYeDNzcxLTS5KTCuxSs4vZ2AAACcOilwlAAAA
+        id: cow
+    item3:
+      ==: org.bukkit.inventory.ItemStack
+      type: MONSTER_EGG
+      meta:
+        ==: ItemMeta
+        meta-type: SPAWN_EGG
+        internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYRDMzcxLTS5KTCuxSs7ITM5OzWNgAAB4qmmVKQAAAA==
+        id: chicken
+    item4:
+      ==: org.bukkit.inventory.ItemStack
+      type: MONSTER_EGG
+      meta:
+        ==: ItemMeta
+        meta-type: SPAWN_EGG
+        internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYeDPzcxLTS5KTCuxKs5ITS1gYAAAYb2CQScAAAA=
+        id: sheep
+  COST: 0
+  ABILITIES:
+  - 30
+  - 61
+  ICON: MONSTER_EGG
+Scarecrow:
+  ITEMS: {}
+  COST: 0
+  ABILITIES:
+  - 31
+  - 66
+  - 58
+  - 61
+  ICON: WHEAT
+Alchemist:
+  ITEMS:
+    item1:
+      ==: org.bukkit.inventory.ItemStack
+      type: BLAZE_POWDER
+    item2:
+      ==: org.bukkit.inventory.ItemStack
+      type: POTION
+      meta:
+        ==: ItemMeta
+        meta-type: POTION
+        potion-type: minecraft:water
+  COST: 0
+  ABILITIES:
+  - 32
+  ICON: POTION
+Pudge:
+  ITEMS:
+    item1:
+      ==: org.bukkit.inventory.ItemStack
+      type: COOKIE
+      amount: 4
+  COST: 0
+  ABILITIES:
+  - 33
+  - 35
+  - 65
+  - 55
+  ICON: COOKIE
+Viper:
+  ITEMS:
+    item1:
+      ==: org.bukkit.inventory.ItemStack
+      type: STRING
+      amount: 3
+    item2:
+      ==: org.bukkit.inventory.ItemStack
+      type: FLINT
+      amount: 4
+    item3:
+      ==: org.bukkit.inventory.ItemStack
+      type: FEATHER
+      amount: 4
+  COST: 0
+  ABILITIES:
+  - 26
+  - 42
+  ICON: TIPPED_ARROW
+Assassin:
+  ITEMS: {}
+  COST: 0
+  ABILITIES:
+  - 36
+  - 37
+  - 38
+  ICON: NETHER_STAR
+Vampire:
+  ITEMS:
+    item1:
+      ==: org.bukkit.inventory.ItemStack
+      type: SUGAR_CANE
+      amount: 10
+  COST: 0
+  ABILITIES:
+  - 43
+  - 44
+  - 61
+  ICON: EYE_OF_ENDER
+Trawler:
+  ITEMS:
+    item1:
+      ==: org.bukkit.inventory.ItemStack
+      type: FISHING_ROD
+  COST: 0
+  ABILITIES:
+  - 45
+  - 46
+  - 47
+  ICON: FISHING_ROD
+Sapper:
+  ITEMS:
+    item1:
+      ==: org.bukkit.inventory.ItemStack
+      type: FLINT_AND_STEEL
+    item2:
+      ==: org.bukkit.inventory.ItemStack
+      type: DIODE
+      amount: 8
+    item3:
+      ==: org.bukkit.inventory.ItemStack
+      type: TRIPWIRE_HOOK
+      amount: 4
+    item4:
+      ==: org.bukkit.inventory.ItemStack
+      type: STRING
+      amount: 2
+
+  COST: 0
+  ABILITIES:
+  - 62
+  - 63
+  - 64
+  ICON: TNT

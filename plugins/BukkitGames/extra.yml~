@@ -1,0 +1,292 @@
+# Blacksmith:
+#   ITEMS:
+#     item1:
+#       ==: org.bukkit.inventory.ItemStack
+#       type: STONE_PICKAXE
+#     item2:
+#       ==: org.bukkit.inventory.ItemStack
+#       type: ANVIL
+#     item3:
+#       ==: org.bukkit.inventory.ItemStack
+#       type: FURNACE
+#     item4:
+#       ==: org.bukkit.inventory.ItemStack
+#       type: COAL
+#       amount: 16
+#     item5:
+#       ==: org.bukkit.inventory.ItemStack
+#       type: ENCHANTED_BOOK
+#       meta:
+#         ==: ItemMeta
+#         meta-type: ENCHANTED
+#         stored-enchants:
+#           DAMAGE_ALL: 3
+#     item6:
+#       ==: org.bukkit.inventory.ItemStack
+#       type: ENCHANTED_BOOK
+#       meta:
+#         ==: ItemMeta
+#         meta-type: ENCHANTED
+#         stored-enchants:
+#           PROTECTION_ENVIRONMENTAL: 4
+#     item7:
+#       ==: org.bukkit.inventory.ItemStack
+#       type: ENCHANTED_BOOK
+#       meta:
+#         ==: ItemMeta
+#         meta-type: ENCHANTED
+#         stored-enchants:
+#           ARROW_FIRE: 1
+#   COST: 0
+#   ABILITIES:
+#   - 0
+#   ICON: ANVIL
+FireMage:
+  ITEMS:
+    item1:
+      ==: org.bukkit.inventory.ItemStack
+      type: FIREBALL
+      amount: 5
+  COST: 0
+  ABILITIES:
+  - 51
+  ICON: FIREBALL
+DeathArcher:
+  ITEMS:
+    item1:
+      ==: org.bukkit.inventory.ItemStack
+      type: BOW
+    item2:
+      ==: org.bukkit.inventory.ItemStack
+      type: ARROW
+      amount: 10
+  COST: 0
+  ABILITIES:
+  - 1
+  ICON: TIPPED_ARROW
+Sniper:
+  ITEMS:
+    item1:
+      ==: org.bukkit.inventory.ItemStack
+      type: BOW
+    item2:
+      ==: org.bukkit.inventory.ItemStack
+      type: ARROW
+      amount: 24
+    item3:
+      ==: org.bukkit.inventory.ItemStack
+      type: SPECTRAL_ARROW
+      amount: 16
+  COST: 0
+  ABILITIES:
+  - 2
+  ICON: SPECTRAL_ARROW
+ToxicBowman:
+  ITEMS:
+    item1:
+      ==: org.bukkit.inventory.ItemStack
+      type: BOW
+    item2:
+      ==: org.bukkit.inventory.ItemStack
+      type: TIPPED_ARROW
+      amount: 3
+      meta:
+        ==: ItemMeta
+        meta-type: POTION
+        potion-type: minecraft:long_slowness
+    item3:
+      ==: org.bukkit.inventory.ItemStack
+      type: TIPPED_ARROW
+      amount: 3
+      meta:
+        ==: ItemMeta
+        meta-type: POTION
+        potion-type: minecraft:poison
+    item4:
+      ==: org.bukkit.inventory.ItemStack
+      type: TIPPED_ARROW
+      amount: 2
+      meta:
+        ==: ItemMeta
+        meta-type: POTION
+        potion-type: minecraft:strong_harming
+    item5:
+      ==: org.bukkit.inventory.ItemStack
+      type: ARROW
+      amount: 24
+  COST: 30
+  ABILITIES:
+  - 0
+  ICON: TIPPED_ARROW
+Zombie:
+  ITEMS:
+    item1:
+      ==: org.bukkit.inventory.ItemStack
+      type: TOTEM
+    item2:
+      ==: org.bukkit.inventory.ItemStack
+      type: MONSTER_EGG
+      amount: 6
+      meta:
+        ==: ItemMeta
+        meta-type: SPAWN_EGG
+        internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYRDIzcxLTS5KTCuxqsrPTcpMZWAAADz7vV8oAAAA
+        id: zombie
+    item3:
+      ==: org.bukkit.inventory.ItemStack
+      type: ROTTEN_FLESH
+      amount: 4
+  COST: 0
+  ABILITIES:
+  - 61
+  - 3
+  ICON: ROTTEN_FLESH
+Tank:
+  ITEMS:
+    item1:
+      ==: org.bukkit.inventory.ItemStack
+      type: IRON_CHESTPLATE
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        enchants:
+          PROTECTION_ENVIRONMENTAL: 3
+        repair-cost: 1
+    item2:
+      ==: org.bukkit.inventory.ItemStack
+      type: SHIELD
+    item3:
+      ==: org.bukkit.inventory.ItemStack
+      type: POTION
+      meta:
+        ==: ItemMeta
+        meta-type: POTION
+        potion-type: minecraft:regeneration
+  COST: 0
+  ABILITIES:
+  - 0
+  ICON: IRON_CHESTPLATE
+ FrostWalker:
+  ITEMS:
+    item1:
+      ==: org.bukkit.inventory.ItemStack
+      type: IRON_BOOTS
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        enchants:
+          FROST_WALKER: 2
+        repair-cost: 1
+    item2:
+      ==: org.bukkit.inventory.ItemStack
+      type: WATER_BUCKET
+  COST: 0
+  ABILITIES:
+  - 22
+  ICON: ICE
+Rider:
+  ITEMS:
+    item1:
+      ==: org.bukkit.inventory.ItemStack
+      type: MONSTER_EGG
+      meta:
+        ==: ItemMeta
+        meta-type: SPAWN_EGG
+        internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYeDPzcxLTS5KTCuxysgvKk5lYAAAp2cBhCcAAAA=
+        id: horse
+    item2:
+      ==: org.bukkit.inventory.ItemStack
+      type: SADDLE
+    item3:
+      ==: org.bukkit.inventory.ItemStack
+      type: LEASH
+    item4:
+      ==: org.bukkit.inventory.ItemStack
+      type: IRON_BARDING
+    item5:
+      ==: org.bukkit.inventory.ItemStack
+      type: APPLE
+      amount: 3
+  COST: 0
+  ABILITIES:
+  - 52
+  ICON: IRON_BARDING
+Marauder:
+  ITEMS:
+    item1:
+      ==: org.bukkit.inventory.ItemStack
+      type: STONE_SWORD
+    item2:
+      ==: org.bukkit.inventory.ItemStack
+      type: CHAINMAIL_HELMET
+    item3:
+      ==: org.bukkit.inventory.ItemStack
+      type: CHAINMAIL_BOOTS
+    item4:
+      ==: org.bukkit.inventory.ItemStack
+      type: LEATHER_CHESTPLATE
+  COST: 0
+  ABILITIES:
+  - 0
+  ICON: STONE_SWORD
+Pudge:
+  ITEMS:
+    item1:
+      ==: org.bukkit.inventory.ItemStack
+      type: CAKE
+    item2:
+      ==: org.bukkit.inventory.ItemStack
+      type: CAKE
+  COST: 0
+  ABILITIES:
+  - 33
+  - 55
+  ICON: CAKE
+CookieMonster:
+  ITEMS:
+    item1:
+      ==: org.bukkit.inventory.ItemStack
+      type: COOKIE
+      amount: 10
+  COST: 0
+  ABILITIES:
+  - 50
+  ICON: COOKIE
+ChaoticEvil:
+  ITEMS:
+    item1:
+      ==: org.bukkit.inventory.ItemStack
+      type: MONSTER_EGG
+      amount: 3
+      meta:
+        ==: ItemMeta
+        meta-type: SPAWN_EGG
+        internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYeDPzcxLTS5KTCuxSs9ILC5hYAAA4wPoVScAAAA=
+        id: ghast
+    item2:
+      ==: org.bukkit.inventory.ItemStack
+      type: BLAZE_ROD
+    item3:
+      ==: org.bukkit.inventory.ItemStack
+      type: NETHERRACK
+      amount: 32
+  COST: 0
+  ABILITIES:
+  - 61
+  - 59
+  ICON: EYE_OF_ENDER
+MilkMan:
+  ITEMS:
+    item1:
+      ==: org.bukkit.inventory.ItemStack
+      type: MONSTER_EGG
+      amount: 2
+      meta:
+        ==: ItemMeta
+        meta-type: SPAWN_EGG
+        internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYeDNzcxLTS5KTCuxSs4vZ2AAACcOilwlAAAA
+        id: cow
+  COST: 0
+  ABILITIES:
+  - 23
+  ICON: MILK_BUCKET
