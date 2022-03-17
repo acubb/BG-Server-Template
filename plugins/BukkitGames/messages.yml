@@ -11,12 +11,12 @@ TIME_UNTIL_BEGIN: Game begins in $0.
 TIME_UNTIL_INVINCIBILITY: Invincibility ends in $0.
 GAME_ALREADY_STARTED: Game already begun!
 GAME_STARTED: The game has started! Prepare yourselves!
-WAITNG_FOR_PLAYERS: Waiting for Players.
+WAITNG_FOR_PLAYERS: Waiting for Gumblers.
 GAME_IN_PROGRESS: In progress.
 GAME_STARTING_IN: Starting in $0.
-GAME_END_SOON: Game will end soon! Quick, kill any remaining players now!
+GAME_END_SOON: Game will end soon! Quick, kill any remaining gumblers now!
 GAME_ENDING_NOW: Game time limit reached! Server will restart very soon.
-MAY_ODDS_BE_IN_FAVOR: Best of luck to all Players!
+MAY_ODDS_BE_IN_FAVOR: Best of luck to all Gumblers!
 ODDS_WERE_NOT_IN_FAVOR: They were not very poggers.
 FREEZE_UNTIL_GAME_START: You can not move until the game begins.
 NO_PERMISSION: You do not have permission.
@@ -52,8 +52,8 @@ PLAYER_NO_LONGER_VOLUNTEERS_AS_TRIBUTE: $0 has left.
 PLAYER_QUIT_GAME: $0 quit the game.
 NOW_SPECTATOR: You are now a spectator.
 NOW_GAMEMAKER: You are now a gamemaker.
-TRIBUTES: Players
-TRIBUTE: Player
+TRIBUTES: Gumblers
+TRIBUTE: Gumblers
 DEAD_TRIBUTES: Dead
 COUNTDOWN: Countdown
 CLOSE_TO_BORDER: Close to the world border.
@@ -65,7 +65,7 @@ FEAST_NOT_SPAWNED_YET: Feast has not spawned, yet.
 FEAST_WILL_SPAWN_SOON: The feast will be spawned in some seconds...
 CAN_NOT_FORCE_FEAST_SPAWN: Feast spawning can not be forced at the moment.
 NO_PLAYERS_FOUND: No players were found.
-COOLDOWN_NOT_EXPIRED:
+COOLDOWN_NOT_EXPIRED: Cooldown still active.
 MOTD_PREPARING: "Preparing..."
 TRACKING_PLAYER: Tracking player $0 ($1 blocks away).
 COMPASS_TRACKING_FEAST: "(Tracking: Feast)"
@@ -92,8 +92,8 @@ CHAT_SPECTATOR_PREFIX: SPECTATOR
 CHAT_WINNER_PREFIX: WINNER
 JOIN_TO_SPECTATE: Join to spectate.
 GAMESTATE: State
-WELCOME_TO_BUKKITGAMES: Welcome!
-NEED_MORE_PLAYERS: We need at least $0 players to start the game.
+WELCOME_TO_BUKKITGAMES: A small, classic Hunger Games server with customized kits! <3
+NEED_MORE_PLAYERS: We need at least $0 gumblers to start the game.
 KIT_MENU_SELECT_TITLE: Kit Selection
 KIT_MENU_BUY_TITLE: Kit Shop
 RIGHT_CLICK_TO_OPEN: Right click to open the menu.
@@ -101,7 +101,7 @@ YOU_NEED_MORE_MONEY_TO_BUY: You are $0 credits short to buy the kit $1.
 YOU_BOUGHT_KIT: You bought the kit $0 for $1 credits.
 YOUR_CURRENT_MONEY: "Current balance: $0 credits"
 MONEY_FOR_WINNING: "Winning a game: $0 credits"
-MONEY_FOR_KILLING: "Killing a player: $0 credits"
+MONEY_FOR_KILLING: "Killing a tribute: $0 credits"
 KIT_PURCHASES_DISABLED: Kit purchases and credits are disabled.
 NOTHING_TO_BUY: The shop is empty.
 SHOP_CLOSED: The shop is closed.
@@ -118,9 +118,9 @@ MONEY_GIVE_SUCCESS_RECEIVER: You received $1 credits from $0.
 MONEY_ADD_SUCCESS: Added $1 credits to the balance of player $0.
 MONEY_REM_SUCCESS: Removed $1 credits from the balance of player $0.
 VALIDATE_NOT_AN_INTEGER: This is not a valid number.
-PLAYER_ADDED_TO_TEAM: Player $0 was added to your team.
+PLAYER_ADDED_TO_TEAM: Gumbler $0 was added to your team.
 TEAMS_ARE_DISABLED: Teams are disabled on this server.
-PLAYER_REMOVED_FROM_TEAM: Player $0 was removed from your team.
+PLAYER_REMOVED_FROM_TEAM: Gumbler $0 was removed from your team.
 TEAM_MEMBER_DIED: Your team member $0 died. Watch out!
 YOUR_TEAM_IS_EMPTY: Your team is empty.
 YOUR_TEAM: "Your team: $0"
@@ -140,8 +140,8 @@ STATS_TOP_DEATHS: Top 10 Deaths
 KIT_DESC_ITEMS: Items
 KIT_DESC_ABILITIES: Abilities
 SPECTATING_DISABLED: Spectating is disabled on this server.
-TRIBUTE_DEATH_AFTER_TIME: "Player $0 - Died after $1 minutes."
-TRIBUTE_DEATH_AFTER_SECONDS: "Player $0 - Died in the first seconds of the game."
+TRIBUTE_DEATH_AFTER_TIME: "Gumbler $0 - Died after $1 minutes."
+TRIBUTE_DEATH_AFTER_SECONDS: "Gumbler $0 - Died in the first seconds of the game."
 COMPASS_SET_TO_CORNUCOPIA: Your compass is now pointing towards the spawn.
 COMPASS_SET_TO_FEAST: Your compass is now pointing towards the feast.
 FEAST_SPAWNED: Feast spawned!

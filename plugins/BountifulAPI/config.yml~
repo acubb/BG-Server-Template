@@ -1,6 +1,6 @@
 Title On Join: true
-Title Message: Welcome,
-Subtitle Message: '%player% to the Gumble Games!'
+Title Message: Welcome!
+Subtitle Message: '%player% to the Gumble Games'
 Tab Header Enabled: true
 Tab Header Message: Gumble Games IP
 Tab Footer Message: 51.81.87.170

@@ -24,7 +24,7 @@ DATABASE: "bukkitgames"
 # --- GENERAL OPTIONS ---
 
 # Set a name for your server. The name will be displayed e.g. in the MOTD. Should not be longer than 32 characters.
-SERVER_NAME: ""
+SERVER_NAME: "☠The Gumble Games☠  ENJOY! ｡◕‿ ◕｡"
 
 # Minimum amount of players required to start the game.
 MIN_PLAYERS_START: 6
@@ -36,7 +36,7 @@ PREGAME_TIME: 120
 INVINCIBILITY_TIME: 120
 
 # Maximum length of a game in minutes.
-MAX_GAME_TIME: 30
+MAX_GAME_TIME: 25
 
 # Time in minutes after which the feast will spawn. For best results set this to MAX_GAME_TIME / 2.
 FEAST_SPAWN_TIME: 15

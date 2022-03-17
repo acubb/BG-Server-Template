@@ -138,7 +138,7 @@ DISPLAY_VOTING_OPTIONS_IN_CHAT: true
 
 # If set to true, the plugin will fill the chests on a custom map with random items.
 # -> To customize the items in the chests, please visit the BukkitGames wiki.
-FILL_RANDOM_CHESTS: false
+FILL_RANDOM_CHESTS: true
 
 # Maximum amount of items to add to a chest on a custom map.
 # -> Only active when FILL_RANDOM_CHESTS is set to true.
